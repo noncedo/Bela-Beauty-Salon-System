@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baleflorbeaultysalon", "baleflorbeaultysalon\baleflorbeaultysalon.csproj", "{43768DFF-CA55-429E-BE94-E7BBFA4BEADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belabeautyBLL", "belabeautyBLL\belabeautyBLL.csproj", "{D07E661C-200D-49C4-BCF0-FCB5AA16F1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belabeautyDAL", "belabeautyDAL\belabeautyDAL.csproj", "{6FDAF060-8C83-4DE1-90F2-58DBD28FDA7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9820270D-FE5F-4A9F-8EB0-80315F0CE5AA}"
+	ProjectSection(SolutionItems) = preProject
+		baleflorbeaultysalon\bin\DayPilot.dll = baleflorbeaultysalon\bin\DayPilot.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingBelaFlor", "UnitTestingBelaFlor\UnitTestingBelaFlor.csproj", "{74618CD4-AF74-4CB4-A8C6-A9B334B37A04}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://schooldevops.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = baleflorbeaultysalon\\baleflorbeaultysalon.csproj
+		SccProjectName1 = baleflorbeaultysalon
+		SccLocalPath1 = baleflorbeaultysalon
+		SccProjectUniqueName2 = belabeautyBLL\\belabeautyBLL.csproj
+		SccProjectName2 = belabeautyBLL
+		SccLocalPath2 = belabeautyBLL
+		SccProjectUniqueName3 = belabeautyDAL\\belabeautyDAL.csproj
+		SccProjectName3 = belabeautyDAL
+		SccLocalPath3 = belabeautyDAL
+		SccProjectUniqueName4 = UnitTestingBelaFlor\\UnitTestingBelaFlor.csproj
+		SccProjectName4 = UnitTestingBelaFlor
+		SccLocalPath4 = UnitTestingBelaFlor
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43768DFF-CA55-429E-BE94-E7BBFA4BEADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43768DFF-CA55-429E-BE94-E7BBFA4BEADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43768DFF-CA55-429E-BE94-E7BBFA4BEADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43768DFF-CA55-429E-BE94-E7BBFA4BEADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07E661C-200D-49C4-BCF0-FCB5AA16F1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07E661C-200D-49C4-BCF0-FCB5AA16F1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07E661C-200D-49C4-BCF0-FCB5AA16F1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDAF060-8C83-4DE1-90F2-58DBD28FDA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDAF060-8C83-4DE1-90F2-58DBD28FDA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDAF060-8C83-4DE1-90F2-58DBD28FDA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74618CD4-AF74-4CB4-A8C6-A9B334B37A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74618CD4-AF74-4CB4-A8C6-A9B334B37A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74618CD4-AF74-4CB4-A8C6-A9B334B37A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74618CD4-AF74-4CB4-A8C6-A9B334B37A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
